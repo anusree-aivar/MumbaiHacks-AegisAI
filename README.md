@@ -560,12 +560,12 @@ The system is currently undergoing **vigorous testing** for expansion beyond spo
 
 #### Testing Domains
 
-1. **Politics** ✅ (Testing Complete)
+1. **Politics** (In Progress)
    - Political claims verification
    - Policy fact-checking
    - Election-related claims
 
-2. **Science & Health** ✅ (Testing Complete)
+2. **Science & Health** (In Progress)
    - Medical claims verification
    - Scientific study verification
    - Health misinformation detection
@@ -721,74 +721,3 @@ The Gemini-processed summaries will be passed to the existing verification pipel
 - **Response Time**: <100ms for cached results
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our contributing guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow PEP 8 for Python code
-- Use TypeScript strict mode for frontend
-- Write tests for new features
-- Update documentation for API changes
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Mumbai Hacks 2025**: Built for the biggest hackathon
-- **Amazon Bedrock**: For Nova Pro and Claude model access
-- **Perplexity AI**: For web search and evidence retrieval
-- **Google Gemini**: For multi-media content analysis (integration in progress)
-- **shadcn/ui**: For beautiful UI components
-
----
-
-## 📞 Contact & Support
-
-- **Project Repository**: [GitHub Link]
-- **Documentation**: [Docs Link]
-- **Issues**: [GitHub Issues]
-- **Email**: [Your Email]
-
----
-
-## 🎯 Roadmap
-
-### Short Term (Q1 2025)
-- ✅ Multi-domain testing completion
-- 🚧 Gemini video/audio/link integration
-- 📋 Enhanced caching strategies
-- 📋 API rate limit optimization
-
-### Medium Term (Q2 2025)
-- 📋 Multi-language support
-- 📋 Mobile app development
-- 📋 Advanced analytics dashboard
-- 📋 Custom domain training
-
-### Long Term (Q3-Q4 2025)
-- 📋 Real-time streaming verification
-- 📋 Blockchain-based source verification
-- 📋 Community-driven trust scoring
-- 📋 Enterprise API platform
-
----
-
-**Built with ❤️ for Mumbai Hacks 2025**
-
-*"Detecting misinformation before it spreads"*
-
