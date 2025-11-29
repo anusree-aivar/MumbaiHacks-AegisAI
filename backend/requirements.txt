@@ -1,0 +1,12 @@
+strands-agents
+strands-agents-tools
+requests
+python-dotenv
+pydantic
+plotly>=5.18.0
+pandas>=2.1.0
+fastapi
+httpx
+python-dateutil
+uvicorn
+tqdm

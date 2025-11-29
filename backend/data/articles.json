@@ -1,0 +1,1979 @@
+{
+  "articles": [
+    {
+      "id": "art_1764347869_1",
+      "title": "LeBron James scores 40 points as Lakers defeat Warriors 120-110",
+      "description": "Latest updates on Basketball news. LeBron James scores 40 points as Lakers defeat Warriors 120-110",
+      "source": "ESPN",
+      "publishedAt": "2025-11-28T22:07:49.976675",
+      "url": "https://espn.com/article/1",
+      "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9644732364204707,
+        "explanation": "Based on analysis of 3 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 3,
+        "verification_time": 48.07104524268083,
+        "original_claim": "LeBron James scores 40 points as Lakers defeat Warriors 120-110",
+        "atomic_claims": [
+          {
+            "claim": "LeBron James scores 40 points as Lakers defeat Warriors 120-110",
+            "verdict": "TRUE",
+            "supporting_count": 3,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://theguardian.com/article/1",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, lebron james scores 40 points as lakers defeat warriors 120-110. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/1",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, lebron james scores 40 points as lakers defeat warriors 120-110. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/1",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, lebron james scores 40 points as lakers defeat warriors 120-110. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_2",
+      "title": "Manchester United signs new striker in record-breaking deal",
+      "description": "Latest updates on Football news. Manchester United signs new striker in record-breaking deal",
+      "source": "Sky Sports",
+      "publishedAt": "2025-11-28T22:07:49.976690",
+      "url": "https://skysports.com/article/2",
+      "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9589870569648457,
+        "explanation": "Based on analysis of 6 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 6,
+        "verification_time": 46.95600035545572,
+        "original_claim": "Manchester United signs new striker in record-breaking deal",
+        "atomic_claims": [
+          {
+            "claim": "Manchester United signs new striker in record-breaking deal",
+            "verdict": "TRUE",
+            "supporting_count": 5,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://skysports.com/article/2",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, manchester united signs new striker in record-breaking deal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/2",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, manchester united signs new striker in record-breaking deal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/2",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, manchester united signs new striker in record-breaking deal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/2",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, manchester united signs new striker in record-breaking deal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/2",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, manchester united signs new striker in record-breaking deal. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://reuters.com/article/2",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, manchester united signs new striker in record-breaking deal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_3",
+      "title": "Serena Williams announces retirement from professional tennis",
+      "description": "Latest updates on Tennis news. Serena Williams announces retirement from professional tennis",
+      "source": "BBC Sport",
+      "publishedAt": "2025-11-28T22:07:49.976700",
+      "url": "https://bbcsport.com/article/3",
+      "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8520332544589264,
+        "explanation": "Based on analysis of 7 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 7,
+        "verification_time": 28.820596669296158,
+        "original_claim": "Serena Williams announces retirement from professional tennis",
+        "atomic_claims": [
+          {
+            "claim": "Serena Williams announces retirement from professional tennis",
+            "verdict": "TRUE",
+            "supporting_count": 6,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://nfl.com/article/3",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, serena williams announces retirement from professional tennis. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/3",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, serena williams announces retirement from professional tennis. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/3",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, serena williams announces retirement from professional tennis. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/3",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, serena williams announces retirement from professional tennis. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://espn.com/article/3",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, serena williams announces retirement from professional tennis. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/3",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, serena williams announces retirement from professional tennis. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/3",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, serena williams announces retirement from professional tennis. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_4",
+      "title": "Tom Brady leads Buccaneers to playoff victory",
+      "description": "Latest updates on American Football news. Tom Brady leads Buccaneers to playoff victory",
+      "source": "NFL.com",
+      "publishedAt": "2025-11-28T22:07:49.976706",
+      "url": "https://nfl.com.com/article/4",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8629225860767846,
+        "explanation": "Based on analysis of 4 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 4,
+        "verification_time": 28.033394049243014,
+        "original_claim": "Tom Brady leads Buccaneers to playoff victory",
+        "atomic_claims": [
+          {
+            "claim": "Tom Brady leads Buccaneers to playoff victory",
+            "verdict": "TRUE",
+            "supporting_count": 3,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://nba.com/article/4",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, tom brady leads buccaneers to playoff victory. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/4",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, tom brady leads buccaneers to playoff victory. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://espn.com/article/4",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, tom brady leads buccaneers to playoff victory. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/4",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, tom brady leads buccaneers to playoff victory. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_5",
+      "title": "Lewis Hamilton wins Abu Dhabi Grand Prix",
+      "description": "Latest updates on Formula 1 news. Lewis Hamilton wins Abu Dhabi Grand Prix",
+      "source": "Formula1.com",
+      "publishedAt": "2025-11-28T22:07:49.976714",
+      "url": "https://formula1.com.com/article/5",
+      "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800",
+      "verified": "FALSE",
+      "verification_result": {
+        "final_verdict": "FALSE",
+        "confidence_score": 0.897729761794988,
+        "explanation": "Based on analysis of 7 authoritative sports sources, this claim has been verified as FALSE. The reported information contradicts multiple credible sports journalism outlets and official statements.",
+        "total_sources": 7,
+        "verification_time": 29.464256771848415,
+        "original_claim": "Lewis Hamilton wins Abu Dhabi Grand Prix",
+        "atomic_claims": [
+          {
+            "claim": "Lewis Hamilton wins Abu Dhabi Grand Prix",
+            "verdict": "FALSE",
+            "supporting_count": 5,
+            "contradicting_count": 2,
+            "sources": [
+              {
+                "url": "https://nba.com/article/5",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, reports indicate it is false that lewis hamilton wins abu dhabi grand prix. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://reuters.com/article/5",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, lewis hamilton wins abu dhabi grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/5",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, reports indicate it is false that lewis hamilton wins abu dhabi grand prix. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://skysports.com/article/5",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, lewis hamilton wins abu dhabi grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/5",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, lewis hamilton wins abu dhabi grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/5",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, lewis hamilton wins abu dhabi grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/5",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, lewis hamilton wins abu dhabi grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_6",
+      "title": "Steph Curry breaks NBA three-point record",
+      "description": "Latest updates on Basketball news. Steph Curry breaks NBA three-point record",
+      "source": "ESPN",
+      "publishedAt": "2025-11-28T22:07:49.976720",
+      "url": "https://espn.com/article/6",
+      "imageUrl": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8578982262684435,
+        "explanation": "Based on analysis of 4 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 4,
+        "verification_time": 28.735350854245514,
+        "original_claim": "Steph Curry breaks NBA three-point record",
+        "atomic_claims": [
+          {
+            "claim": "Steph Curry breaks NBA three-point record",
+            "verdict": "TRUE",
+            "supporting_count": 4,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://reuters.com/article/6",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, steph curry breaks nba three-point record. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/6",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, steph curry breaks nba three-point record. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/6",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, steph curry breaks nba three-point record. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/6",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, steph curry breaks nba three-point record. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_7",
+      "title": "Rafael Nadal wins French Open for 14th time",
+      "description": "Latest updates on Tennis news. Rafael Nadal wins French Open for 14th time",
+      "source": "ATP Tour",
+      "publishedAt": "2025-11-28T22:07:49.976726",
+      "url": "https://atptour.com/article/7",
+      "imageUrl": "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?w=800",
+      "verified": "PARTIALLY_TRUE",
+      "verification_result": {
+        "final_verdict": "PARTIALLY_TRUE",
+        "confidence_score": 0.6810055670149857,
+        "explanation": "Based on analysis of 3 authoritative sports sources, this claim has been verified as PARTIALLY_TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 3,
+        "verification_time": 32.27528353888593,
+        "original_claim": "Rafael Nadal wins French Open for 14th time",
+        "atomic_claims": [
+          {
+            "claim": "Rafael Nadal wins French Open for 14th time",
+            "verdict": "PARTIALLY_TRUE",
+            "supporting_count": 1,
+            "contradicting_count": 1,
+            "sources": [
+              {
+                "url": "https://theguardian.com/article/7",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, reports indicate it is false that rafael nadal wins french open for 14th time. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://apnews.com/article/7",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, rafael nadal wins french open for 14th time. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/7",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, rafael nadal wins french open for 14th time. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_8",
+      "title": "Chiefs defeat Bills in AFC Championship thriller",
+      "description": "Latest updates on American Football news. Chiefs defeat Bills in AFC Championship thriller",
+      "source": "CBS Sports",
+      "publishedAt": "2025-11-28T22:07:49.976734",
+      "url": "https://cbssports.com/article/8",
+      "imageUrl": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9280355957856221,
+        "explanation": "Based on analysis of 8 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 8,
+        "verification_time": 53.37359281534617,
+        "original_claim": "Chiefs defeat Bills in AFC Championship thriller",
+        "atomic_claims": [
+          {
+            "claim": "Chiefs defeat Bills in AFC Championship thriller",
+            "verdict": "TRUE",
+            "supporting_count": 7,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://nfl.com/article/8",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://bbc.com/article/8",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/8",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/8",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/8",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/8",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/8",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/8",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, chiefs defeat bills in afc championship thriller. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_9",
+      "title": "Lionel Messi scores hat-trick in Champions League final",
+      "description": "Latest updates on Football news. Lionel Messi scores hat-trick in Champions League final",
+      "source": "UEFA",
+      "publishedAt": "2025-11-28T22:07:49.976890",
+      "url": "https://uefa.com/article/9",
+      "imageUrl": "https://images.unsplash.com/photo-1519861531473-920026393112?w=800",
+      "verified": "FALSE",
+      "verification_result": {
+        "final_verdict": "FALSE",
+        "confidence_score": 0.8660319603942936,
+        "explanation": "Based on analysis of 5 authoritative sports sources, this claim has been verified as FALSE. The reported information contradicts multiple credible sports journalism outlets and official statements.",
+        "total_sources": 5,
+        "verification_time": 37.042302335713075,
+        "original_claim": "Lionel Messi scores hat-trick in Champions League final",
+        "atomic_claims": [
+          {
+            "claim": "Lionel Messi scores hat-trick in Champions League final",
+            "verdict": "FALSE",
+            "supporting_count": 2,
+            "contradicting_count": 3,
+            "sources": [
+              {
+                "url": "https://espn.com/article/9",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, lionel messi scores hat-trick in champions league final. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/9",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, reports indicate it is false that lionel messi scores hat-trick in champions league final. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://reuters.com/article/9",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, reports indicate it is false that lionel messi scores hat-trick in champions league final. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://apnews.com/article/9",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, lionel messi scores hat-trick in champions league final. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/9",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, reports indicate it is false that lionel messi scores hat-trick in champions league final. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_10",
+      "title": "Max Verstappen clinches F1 World Championship",
+      "description": "Latest updates on Formula 1 news. Max Verstappen clinches F1 World Championship",
+      "source": "Sky F1",
+      "publishedAt": "2025-11-28T22:07:49.976898",
+      "url": "https://skyf1.com/article/10",
+      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9772513467361973,
+        "explanation": "Based on analysis of 6 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 6,
+        "verification_time": 54.74199140981658,
+        "original_claim": "Max Verstappen clinches F1 World Championship",
+        "atomic_claims": [
+          {
+            "claim": "Max Verstappen clinches F1 World Championship",
+            "verdict": "TRUE",
+            "supporting_count": 6,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://theguardian.com/article/10",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, max verstappen clinches f1 world championship. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/10",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, max verstappen clinches f1 world championship. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/10",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, max verstappen clinches f1 world championship. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/10",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, max verstappen clinches f1 world championship. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/10",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, max verstappen clinches f1 world championship. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/10",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, max verstappen clinches f1 world championship. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_11",
+      "title": "Giannis Antetokounmpo leads Bucks to NBA Finals",
+      "description": "Latest updates on Basketball news. Giannis Antetokounmpo leads Bucks to NBA Finals",
+      "source": "NBA.com",
+      "publishedAt": "2025-11-28T22:07:49.976907",
+      "url": "https://nba.com.com/article/11",
+      "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8659061648494865,
+        "explanation": "Based on analysis of 8 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 8,
+        "verification_time": 33.677852486436784,
+        "original_claim": "Giannis Antetokounmpo leads Bucks to NBA Finals",
+        "atomic_claims": [
+          {
+            "claim": "Giannis Antetokounmpo leads Bucks to NBA Finals",
+            "verdict": "TRUE",
+            "supporting_count": 8,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://bbc.com/article/11",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/11",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/11",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/11",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/11",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/11",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/11",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/11",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, giannis antetokounmpo leads bucks to nba finals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_12",
+      "title": "Real Madrid wins La Liga title",
+      "description": "Latest updates on Football news. Real Madrid wins La Liga title",
+      "source": "Marca",
+      "publishedAt": "2025-11-28T22:07:49.976914",
+      "url": "https://marca.com/article/12",
+      "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8849215599093491,
+        "explanation": "Based on analysis of 7 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 7,
+        "verification_time": 43.43835808658757,
+        "original_claim": "Real Madrid wins La Liga title",
+        "atomic_claims": [
+          {
+            "claim": "Real Madrid wins La Liga title",
+            "verdict": "TRUE",
+            "supporting_count": 6,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://espn.com/article/12",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, real madrid wins la liga title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/12",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, real madrid wins la liga title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/12",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, real madrid wins la liga title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/12",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, real madrid wins la liga title. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://reuters.com/article/12",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, real madrid wins la liga title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/12",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, real madrid wins la liga title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/12",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, real madrid wins la liga title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_13",
+      "title": "Novak Djokovic wins Wimbledon men's singles",
+      "description": "Latest updates on Tennis news. Novak Djokovic wins Wimbledon men's singles",
+      "source": "Wimbledon",
+      "publishedAt": "2025-11-28T22:07:49.976925",
+      "url": "https://wimbledon.com/article/13",
+      "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9344142486927188,
+        "explanation": "Based on analysis of 7 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 7,
+        "verification_time": 37.214288146075475,
+        "original_claim": "Novak Djokovic wins Wimbledon men's singles",
+        "atomic_claims": [
+          {
+            "claim": "Novak Djokovic wins Wimbledon men's singles",
+            "verdict": "TRUE",
+            "supporting_count": 5,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://apnews.com/article/13",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, novak djokovic wins wimbledon men's singles. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/13",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, novak djokovic wins wimbledon men's singles. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://nfl.com/article/13",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, novak djokovic wins wimbledon men's singles. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://bbc.com/article/13",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, novak djokovic wins wimbledon men's singles. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/13",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, novak djokovic wins wimbledon men's singles. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/13",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, novak djokovic wins wimbledon men's singles. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/13",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, novak djokovic wins wimbledon men's singles. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_14",
+      "title": "Aaron Rodgers throws 5 touchdowns in Packers victory",
+      "description": "Latest updates on American Football news. Aaron Rodgers throws 5 touchdowns in Packers victory",
+      "source": "FOX Sports",
+      "publishedAt": "2025-11-28T22:07:49.976931",
+      "url": "https://foxsports.com/article/14",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9112033220564258,
+        "explanation": "Based on analysis of 5 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 5,
+        "verification_time": 42.508095046071794,
+        "original_claim": "Aaron Rodgers throws 5 touchdowns in Packers victory",
+        "atomic_claims": [
+          {
+            "claim": "Aaron Rodgers throws 5 touchdowns in Packers victory",
+            "verdict": "TRUE",
+            "supporting_count": 4,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://nba.com/article/14",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, aaron rodgers throws 5 touchdowns in packers victory. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/14",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, aaron rodgers throws 5 touchdowns in packers victory. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/14",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, aaron rodgers throws 5 touchdowns in packers victory. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/14",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, aaron rodgers throws 5 touchdowns in packers victory. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/14",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, aaron rodgers throws 5 touchdowns in packers victory. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_15",
+      "title": "Charles Leclerc takes pole position at Monaco GP",
+      "description": "Latest updates on Formula 1 news. Charles Leclerc takes pole position at Monaco GP",
+      "source": "ESPN F1",
+      "publishedAt": "2025-11-28T22:07:49.976936",
+      "url": "https://espnf1.com/article/15",
+      "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.906283577143648,
+        "explanation": "Based on analysis of 3 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 3,
+        "verification_time": 39.53681126407662,
+        "original_claim": "Charles Leclerc takes pole position at Monaco GP",
+        "atomic_claims": [
+          {
+            "claim": "Charles Leclerc takes pole position at Monaco GP",
+            "verdict": "TRUE",
+            "supporting_count": 3,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://nba.com/article/15",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, charles leclerc takes pole position at monaco gp. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/15",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, charles leclerc takes pole position at monaco gp. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/15",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, charles leclerc takes pole position at monaco gp. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_16",
+      "title": "Kevin Durant announces move to Phoenix Suns",
+      "description": "Latest updates on Basketball news. Kevin Durant announces move to Phoenix Suns",
+      "source": "The Athletic",
+      "publishedAt": "2025-11-28T22:07:49.976942",
+      "url": "https://theathletic.com/article/16",
+      "imageUrl": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9063860647510599,
+        "explanation": "Based on analysis of 5 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 5,
+        "verification_time": 34.28910378357269,
+        "original_claim": "Kevin Durant announces move to Phoenix Suns",
+        "atomic_claims": [
+          {
+            "claim": "Kevin Durant announces move to Phoenix Suns",
+            "verdict": "TRUE",
+            "supporting_count": 5,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://bbc.com/article/16",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, kevin durant announces move to phoenix suns. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/16",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, kevin durant announces move to phoenix suns. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/16",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, kevin durant announces move to phoenix suns. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/16",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, kevin durant announces move to phoenix suns. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/16",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, kevin durant announces move to phoenix suns. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_17",
+      "title": "Liverpool signs top midfielder from Bayern Munich",
+      "description": "Latest updates on Football news. Liverpool signs top midfielder from Bayern Munich",
+      "source": "Liverpool FC",
+      "publishedAt": "2025-11-28T22:07:49.976950",
+      "url": "https://liverpoolfc.com/article/17",
+      "imageUrl": "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9018967285962438,
+        "explanation": "Based on analysis of 3 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 3,
+        "verification_time": 30.516799781750855,
+        "original_claim": "Liverpool signs top midfielder from Bayern Munich",
+        "atomic_claims": [
+          {
+            "claim": "Liverpool signs top midfielder from Bayern Munich",
+            "verdict": "TRUE",
+            "supporting_count": 3,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://espn.com/article/17",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, liverpool signs top midfielder from bayern munich. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/17",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, liverpool signs top midfielder from bayern munich. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/17",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, liverpool signs top midfielder from bayern munich. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_18",
+      "title": "Naomi Osaka wins Australian Open",
+      "description": "Latest updates on Tennis news. Naomi Osaka wins Australian Open",
+      "source": "Tennis Australia",
+      "publishedAt": "2025-11-28T22:07:49.976958",
+      "url": "https://tennisaustralia.com/article/18",
+      "imageUrl": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8697169314790831,
+        "explanation": "Based on analysis of 6 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 6,
+        "verification_time": 45.63501977518768,
+        "original_claim": "Naomi Osaka wins Australian Open",
+        "atomic_claims": [
+          {
+            "claim": "Naomi Osaka wins Australian Open",
+            "verdict": "TRUE",
+            "supporting_count": 5,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://theguardian.com/article/18",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, naomi osaka wins australian open. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://bbc.com/article/18",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, naomi osaka wins australian open. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/18",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, naomi osaka wins australian open. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/18",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, naomi osaka wins australian open. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/18",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, naomi osaka wins australian open. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/18",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, naomi osaka wins australian open. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_19",
+      "title": "Josh Allen leads Bills to division title",
+      "description": "Latest updates on American Football news. Josh Allen leads Bills to division title",
+      "source": "Buffalo News",
+      "publishedAt": "2025-11-28T22:07:49.976965",
+      "url": "https://buffalonews.com/article/19",
+      "imageUrl": "https://images.unsplash.com/photo-1519861531473-920026393112?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9133447693118234,
+        "explanation": "Based on analysis of 5 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 5,
+        "verification_time": 27.01075652399944,
+        "original_claim": "Josh Allen leads Bills to division title",
+        "atomic_claims": [
+          {
+            "claim": "Josh Allen leads Bills to division title",
+            "verdict": "TRUE",
+            "supporting_count": 5,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://bbc.com/article/19",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, josh allen leads bills to division title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/19",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, josh allen leads bills to division title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/19",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, josh allen leads bills to division title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/19",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, josh allen leads bills to division title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/19",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, josh allen leads bills to division title. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_20",
+      "title": "Sergio Perez wins Singapore Grand Prix",
+      "description": "Latest updates on Formula 1 news. Sergio Perez wins Singapore Grand Prix",
+      "source": "Autosport",
+      "publishedAt": "2025-11-28T22:07:49.976970",
+      "url": "https://autosport.com/article/20",
+      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9720187706005284,
+        "explanation": "Based on analysis of 3 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 3,
+        "verification_time": 34.80100868271818,
+        "original_claim": "Sergio Perez wins Singapore Grand Prix",
+        "atomic_claims": [
+          {
+            "claim": "Sergio Perez wins Singapore Grand Prix",
+            "verdict": "TRUE",
+            "supporting_count": 3,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://reuters.com/article/20",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, sergio perez wins singapore grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/20",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, sergio perez wins singapore grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/20",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, sergio perez wins singapore grand prix. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_21",
+      "title": "Jayson Tatum scores career-high 50 points",
+      "description": "Latest updates on Basketball news. Jayson Tatum scores career-high 50 points",
+      "source": "Boston Globe",
+      "publishedAt": "2025-11-28T22:07:49.976977",
+      "url": "https://bostonglobe.com/article/21",
+      "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9019986043126272,
+        "explanation": "Based on analysis of 7 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 7,
+        "verification_time": 28.799436708535296,
+        "original_claim": "Jayson Tatum scores career-high 50 points",
+        "atomic_claims": [
+          {
+            "claim": "Jayson Tatum scores career-high 50 points",
+            "verdict": "TRUE",
+            "supporting_count": 6,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://nba.com/article/21",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, jayson tatum scores career-high 50 points. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/21",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, jayson tatum scores career-high 50 points. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/21",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, jayson tatum scores career-high 50 points. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/21",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, jayson tatum scores career-high 50 points. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/21",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, jayson tatum scores career-high 50 points. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/21",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, jayson tatum scores career-high 50 points. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://skysports.com/article/21",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, jayson tatum scores career-high 50 points. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_22",
+      "title": "Barcelona defeats PSG 4-1 in Champions League",
+      "description": "Latest updates on Football news. Barcelona defeats PSG 4-1 in Champions League",
+      "source": "Goal.com",
+      "publishedAt": "2025-11-28T22:07:49.976985",
+      "url": "https://goal.com.com/article/22",
+      "imageUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=800",
+      "verified": "FALSE",
+      "verification_result": {
+        "final_verdict": "FALSE",
+        "confidence_score": 0.7655625154585031,
+        "explanation": "Based on analysis of 8 authoritative sports sources, this claim has been verified as FALSE. The reported information contradicts multiple credible sports journalism outlets and official statements.",
+        "total_sources": 8,
+        "verification_time": 38.53785237761748,
+        "original_claim": "Barcelona defeats PSG 4-1 in Champions League",
+        "atomic_claims": [
+          {
+            "claim": "Barcelona defeats PSG 4-1 in Champions League",
+            "verdict": "FALSE",
+            "supporting_count": 1,
+            "contradicting_count": 7,
+            "sources": [
+              {
+                "url": "https://nba.com/article/22",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, reports indicate it is false that barcelona defeats psg 4-1 in champions league. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://espn.com/article/22",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, reports indicate it is false that barcelona defeats psg 4-1 in champions league. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://skysports.com/article/22",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, barcelona defeats psg 4-1 in champions league. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/22",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, reports indicate it is false that barcelona defeats psg 4-1 in champions league. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://bbc.com/article/22",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, reports indicate it is false that barcelona defeats psg 4-1 in champions league. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://apnews.com/article/22",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, reports indicate it is false that barcelona defeats psg 4-1 in champions league. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://theguardian.com/article/22",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, reports indicate it is false that barcelona defeats psg 4-1 in champions league. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://nfl.com/article/22",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, reports indicate it is false that barcelona defeats psg 4-1 in champions league. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_23",
+      "title": "Andy Murray returns to top 10 rankings",
+      "description": "Latest updates on Tennis news. Andy Murray returns to top 10 rankings",
+      "source": "ATP",
+      "publishedAt": "2025-11-28T22:07:49.976989",
+      "url": "https://atp.com/article/23",
+      "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+      "verified": "FALSE",
+      "verification_result": {
+        "final_verdict": "FALSE",
+        "confidence_score": 0.8462012146161795,
+        "explanation": "Based on analysis of 3 authoritative sports sources, this claim has been verified as FALSE. The reported information contradicts multiple credible sports journalism outlets and official statements.",
+        "total_sources": 3,
+        "verification_time": 39.46152255090901,
+        "original_claim": "Andy Murray returns to top 10 rankings",
+        "atomic_claims": [
+          {
+            "claim": "Andy Murray returns to top 10 rankings",
+            "verdict": "FALSE",
+            "supporting_count": 0,
+            "contradicting_count": 3,
+            "sources": [
+              {
+                "url": "https://nfl.com/article/23",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, reports indicate it is false that andy murray returns to top 10 rankings. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://espn.com/article/23",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, reports indicate it is false that andy murray returns to top 10 rankings. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://apnews.com/article/23",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, reports indicate it is false that andy murray returns to top 10 rankings. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_24",
+      "title": "Patrick Mahomes wins NFL MVP award",
+      "description": "Latest updates on American Football news. Patrick Mahomes wins NFL MVP award",
+      "source": "ESPN",
+      "publishedAt": "2025-11-28T22:07:49.976996",
+      "url": "https://espn.com/article/24",
+      "imageUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9357676285631247,
+        "explanation": "Based on analysis of 6 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 6,
+        "verification_time": 26.585574428039457,
+        "original_claim": "Patrick Mahomes wins NFL MVP award",
+        "atomic_claims": [
+          {
+            "claim": "Patrick Mahomes wins NFL MVP award",
+            "verdict": "TRUE",
+            "supporting_count": 5,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://apnews.com/article/24",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, patrick mahomes wins nfl mvp award. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/24",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, patrick mahomes wins nfl mvp award. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://reuters.com/article/24",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, patrick mahomes wins nfl mvp award. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://bbc.com/article/24",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, patrick mahomes wins nfl mvp award. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://espn.com/article/24",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, patrick mahomes wins nfl mvp award. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/24",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, patrick mahomes wins nfl mvp award. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_25",
+      "title": "Ferrari announces new team principal",
+      "description": "Latest updates on Formula 1 news. Ferrari announces new team principal",
+      "source": "Motorsport.com",
+      "publishedAt": "2025-11-28T22:07:49.977002",
+      "url": "https://motorsport.com.com/article/25",
+      "imageUrl": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9404754128582618,
+        "explanation": "Based on analysis of 5 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 5,
+        "verification_time": 45.88588389234132,
+        "original_claim": "Ferrari announces new team principal",
+        "atomic_claims": [
+          {
+            "claim": "Ferrari announces new team principal",
+            "verdict": "TRUE",
+            "supporting_count": 5,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://bbc.com/article/25",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, ferrari announces new team principal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/25",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, ferrari announces new team principal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/25",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, ferrari announces new team principal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/25",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, ferrari announces new team principal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/25",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, ferrari announces new team principal. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_26",
+      "title": "Luka Doncic records triple-double in Mavericks win",
+      "description": "Latest updates on Basketball news. Luka Doncic records triple-double in Mavericks win",
+      "source": "Dallas Morning News",
+      "publishedAt": "2025-11-28T22:07:49.977006",
+      "url": "https://dallasmorningnews.com/article/26",
+      "imageUrl": "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.9624156402840787,
+        "explanation": "Based on analysis of 3 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 3,
+        "verification_time": 45.383388771084185,
+        "original_claim": "Luka Doncic records triple-double in Mavericks win",
+        "atomic_claims": [
+          {
+            "claim": "Luka Doncic records triple-double in Mavericks win",
+            "verdict": "TRUE",
+            "supporting_count": 3,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://nfl.com/article/26",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, luka doncic records triple-double in mavericks win. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/26",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, luka doncic records triple-double in mavericks win. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/26",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, luka doncic records triple-double in mavericks win. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_27",
+      "title": "Cristiano Ronaldo reaches 800 career goals",
+      "description": "Latest updates on Football news. Cristiano Ronaldo reaches 800 career goals",
+      "source": "Reuters",
+      "publishedAt": "2025-11-28T22:07:49.977012",
+      "url": "https://reuters.com/article/27",
+      "imageUrl": "https://images.unsplash.com/photo-1599058945522-28d584b6f0ff?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8586820243202506,
+        "explanation": "Based on analysis of 4 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 4,
+        "verification_time": 30.3968339144813,
+        "original_claim": "Cristiano Ronaldo reaches 800 career goals",
+        "atomic_claims": [
+          {
+            "claim": "Cristiano Ronaldo reaches 800 career goals",
+            "verdict": "TRUE",
+            "supporting_count": 4,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://bbc.com/article/27",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, cristiano ronaldo reaches 800 career goals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://apnews.com/article/27",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, cristiano ronaldo reaches 800 career goals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/27",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, cristiano ronaldo reaches 800 career goals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/27",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, cristiano ronaldo reaches 800 career goals. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_28",
+      "title": "Emma Raducanu wins US Open as qualifier",
+      "description": "Latest updates on Tennis news. Emma Raducanu wins US Open as qualifier",
+      "source": "USTA",
+      "publishedAt": "2025-11-28T22:07:49.977018",
+      "url": "https://usta.com/article/28",
+      "imageUrl": "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=800",
+      "verified": "TRUE",
+      "verification_result": {
+        "final_verdict": "TRUE",
+        "confidence_score": 0.8724212551730747,
+        "explanation": "Based on analysis of 7 authoritative sports sources, this claim has been verified as TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 7,
+        "verification_time": 27.349293393983405,
+        "original_claim": "Emma Raducanu wins US Open as qualifier",
+        "atomic_claims": [
+          {
+            "claim": "Emma Raducanu wins US Open as qualifier",
+            "verdict": "TRUE",
+            "supporting_count": 6,
+            "contradicting_count": 0,
+            "sources": [
+              {
+                "url": "https://espn.com/article/28",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, emma raducanu wins us open as qualifier. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/28",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, emma raducanu wins us open as qualifier. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nfl.com/article/28",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, emma raducanu wins us open as qualifier. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://nba.com/article/28",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, emma raducanu wins us open as qualifier. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://apnews.com/article/28",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, emma raducanu wins us open as qualifier. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/28",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, emma raducanu wins us open as qualifier. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://theguardian.com/article/28",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, emma raducanu wins us open as qualifier. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_29",
+      "title": "Joe Burrow leads Bengals to Super Bowl",
+      "description": "Latest updates on American Football news. Joe Burrow leads Bengals to Super Bowl",
+      "source": "Cincinnati Enquirer",
+      "publishedAt": "2025-11-28T22:07:49.977027",
+      "url": "https://cincinnatienquirer.com/article/29",
+      "imageUrl": "https://images.unsplash.com/photo-1519861531473-920026393112?w=800",
+      "verified": "PARTIALLY_TRUE",
+      "verification_result": {
+        "final_verdict": "PARTIALLY_TRUE",
+        "confidence_score": 0.697742332726529,
+        "explanation": "Based on analysis of 8 authoritative sports sources, this claim has been verified as PARTIALLY_TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 8,
+        "verification_time": 39.37229729723068,
+        "original_claim": "Joe Burrow leads Bengals to Super Bowl",
+        "atomic_claims": [
+          {
+            "claim": "Joe Burrow leads Bengals to Super Bowl",
+            "verdict": "PARTIALLY_TRUE",
+            "supporting_count": 3,
+            "contradicting_count": 4,
+            "sources": [
+              {
+                "url": "https://nfl.com/article/29",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, reports indicate it is false that joe burrow leads bengals to super bowl. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://nba.com/article/29",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, joe burrow leads bengals to super bowl. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://theguardian.com/article/29",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, reports indicate it is false that joe burrow leads bengals to super bowl. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://espn.com/article/29",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, reports indicate it is false that joe burrow leads bengals to super bowl. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://apnews.com/article/29",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, joe burrow leads bengals to super bowl. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://skysports.com/article/29",
+                "domain": "skysports.com",
+                "title": "Sky Sports",
+                "snippet": "According to Sky Sports, joe burrow leads bengals to super bowl. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              },
+              {
+                "url": "https://reuters.com/article/29",
+                "domain": "reuters.com",
+                "title": "Reuters Sports",
+                "snippet": "According to Reuters Sports, reports indicate it is false that joe burrow leads bengals to super bowl. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://bbc.com/article/29",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, joe burrow leads bengals to super bowl. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "art_1764347869_30",
+      "title": "Red Bull announces driver lineup for next season",
+      "description": "Latest updates on Formula 1 news. Red Bull announces driver lineup for next season",
+      "source": "RaceFans",
+      "publishedAt": "2025-11-28T22:07:49.977035",
+      "url": "https://racefans.com/article/30",
+      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800",
+      "verified": "PARTIALLY_TRUE",
+      "verification_result": {
+        "final_verdict": "PARTIALLY_TRUE",
+        "confidence_score": 0.7042662234433351,
+        "explanation": "Based on analysis of 6 authoritative sports sources, this claim has been verified as PARTIALLY_TRUE. The reported information aligns with multiple credible sports journalism outlets and official statements.",
+        "total_sources": 6,
+        "verification_time": 53.61492711521129,
+        "original_claim": "Red Bull announces driver lineup for next season",
+        "atomic_claims": [
+          {
+            "claim": "Red Bull announces driver lineup for next season",
+            "verdict": "PARTIALLY_TRUE",
+            "supporting_count": 1,
+            "contradicting_count": 3,
+            "sources": [
+              {
+                "url": "https://nfl.com/article/30",
+                "domain": "nfl.com",
+                "title": "NFL Official",
+                "snippet": "According to NFL Official, red bull announces driver lineup for next season. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://espn.com/article/30",
+                "domain": "espn.com",
+                "title": "ESPN - Sports News",
+                "snippet": "According to ESPN - Sports News, reports indicate it is false that red bull announces driver lineup for next season. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://apnews.com/article/30",
+                "domain": "apnews.com",
+                "title": "Associated Press",
+                "snippet": "According to Associated Press, red bull announces driver lineup for next season. Multiple sources have confirmed this information.",
+                "classification": "IRRELEVANT"
+              },
+              {
+                "url": "https://bbc.com/article/30",
+                "domain": "bbc.com",
+                "title": "BBC Sport",
+                "snippet": "According to BBC Sport, reports indicate it is false that red bull announces driver lineup for next season. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://nba.com/article/30",
+                "domain": "nba.com",
+                "title": "NBA Official",
+                "snippet": "According to NBA Official, reports indicate it is false that red bull announces driver lineup for next season. Official sources have refuted this information.",
+                "classification": "CONTRADICT"
+              },
+              {
+                "url": "https://theguardian.com/article/30",
+                "domain": "theguardian.com",
+                "title": "The Guardian Sports",
+                "snippet": "According to The Guardian Sports, red bull announces driver lineup for next season. Multiple sources have confirmed this information.",
+                "classification": "SUPPORT"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "last_updated": "2025-11-28T22:07:49.977037"
+}

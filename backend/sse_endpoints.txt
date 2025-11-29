@@ -1,0 +1,132 @@
+@app.get("/api/verify/progress/{task_id}")
+async def get_verification_progress(task_id: str):
+    """
+    Server-Sent Events endpoint for real-time progress updates.
+    
+    Args:
+        task_id: Unique task identifier
+        
+    Returns:
+        StreamingResponse with SSE progress updates
+    """
+    async def event_generator():
+        """Generate SSE events for progress updates."""
+        tracker = get_progress_tracker()
+        last_progress = -1
+        
+        try:
+            while True:
+                status = tracker.get_status()
+                current_progress = status["progress"]
+                
+                # Only send update if progress changed
+                if current_progress != last_progress:
+                    last_progress = current_progress
+                    
+                    # Format as SSE
+                    data = json.dumps({
+                        "progress": current_progress,
+                        "stage": status["stage"],
+                        "timestamp": status["timestamp"]
+                    })
+                    yield f"data: {data}\n\n"
+                    
+                    # If complete, close stream
+                    if current_progress >= 100:
+                        break
+                
+                # Small delay to avoid overwhelming client
+                await asyncio.sleep(0.1)
+                
+        except asyncio.CancelledError:
+            logger.info(f"Progress stream cancelled for task {task_id}")
+        except Exception as e:
+            logger.error(f"Error in progress stream: {e}")
+    
+    return StreamingResponse(
+        event_generator(),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no"
+        }
+    )
+
+
+@app.post("/api/verify/start")
+async def start_verification(request: VerificationRequest):
+    """
+    Start async verification and return task ID for progress tracking.
+    
+    Args:
+        request: VerificationRequest containing the claim to verify
+        
+    Returns:
+        Task ID for tracking progress
+    """
+    if detector is None:
+        raise HTTPException(
+            status_code=503,
+            detail="Verification system not initialized"
+        )
+    
+    # Generate unique task ID
+    task_id = str(uuid.uuid4())
+    
+    # Reset progress tracker for new task
+    reset_progress_tracker()
+    
+    # Store task info
+    verification_tasks[task_id] = {
+        "claim": request.claim,
+        "status": "running",
+        "started_at": datetime.now().isoformat()
+    }
+    
+    # Run verification in background
+    async def run_verification():
+        try:
+            result = detector.verify_claim(request.claim)
+            verification_tasks[task_id]["status"] = "completed"
+            verification_tasks[task_id]["result"] = result
+            verification_tasks[task_id]["completed_at"] = datetime.now().isoformat()
+        except Exception as e:
+            verification_tasks[task_id]["status"] = "failed"
+            verification_tasks[task_id]["error"] = str(e)
+            verification_tasks[task_id]["completed_at"] = datetime.now().isoformat()
+    
+    # Start background task
+    asyncio.create_task(run_verification())
+    
+    return {
+        "task_id": task_id,
+        "message": "Verification started"
+    }
+
+
+@app.get("/api/verify/result/{task_id}")
+async def get_verification_result(task_id: str):
+    """
+    Get verification result for a completed task.
+    
+    Args:
+        task_id: Unique task identifier
+        
+    Returns:
+        Verification result
+    """
+    if task_id not in verification_tasks:
+        raise HTTPException(status_code=404, detail="Task not found")
+    
+    task = verification_tasks[task_id]
+    
+    if task["status"] == "running":
+        return {"status": "running", "message": "Verification in progress"}
+    elif task["status"] == "failed":
+        raise HTTPException(status_code=500, detail=task.get("error", "Unknown error"))
+    else:
+        result = task.get("result", {})
+        verification_time = 0  # Calculate from timestamps if needed
+        response = transform_verification_result(result, verification_time)
+        return response
